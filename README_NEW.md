@@ -79,6 +79,7 @@ Si todo está configurado correctamente, deberías ver la aplicación ejecutánd
 ## Sobre la Prueba Técnica
 
 Esta prueba técnica consiste en **reproducir un componente diseñado en Figma**. Al inicio de la prueba, se te proporcionará acceso al diseño de Figma correspondiente.
+La prueba se realizará en vivo, deberás compartir tu pantalla completa y se te pedirá que expliques tu proceso de desarrollo.
 
 ### Criterios de Evaluación
 
